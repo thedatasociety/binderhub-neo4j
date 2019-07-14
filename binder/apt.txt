@@ -3,4 +3,5 @@ vim
 curl
 wget
 net-tools
+lsof
 openjdk-8-jdk
